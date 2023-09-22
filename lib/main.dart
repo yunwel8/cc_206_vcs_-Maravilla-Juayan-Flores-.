@@ -1,3 +1,8 @@
+// {Hyunwil Maravilla}:{"ako ay tanga pero ako ay mapanga"}
+// {Trisha Nicole Flores}: {"edi wow"}
+// {Jezreel Jan Juayan}: {"Kamukha ko si Pedro"}
+
+
 import 'package:flutter/material.dart';
 
 void main() {
